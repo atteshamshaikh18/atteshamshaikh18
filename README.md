@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/loverajoel/jstips/master/resources/jstips-header-blog.gif" alt="JavaScript Engine Animation" width="100%" />
+</p>
+
 # Hi there, I'm Mohd Attesham Shaikh 👋
 
 <p align="left">
@@ -16,19 +20,18 @@ A passionate, results-driven **Software Developer** with deep expertise in build
 - 🏢 **Previous Experience:** Engineered enterprise growth portals, partner engagement platforms, and lead qualification systems.
 - 🎓 **Education:** Master of Computer Applications (MCA).
 - 🚀 **Core Specialty:** Modern frontend architecture using **React.js**, **Redux**, dynamic component systems, and seamless backend API integrations.
-- 📍 **Location:** Mumbai, India
-
+  
 ---
 
 ### 🛠️ Tech Stack & Toolkit
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Frontend Core** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **UI Frameworks & Styling** | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **State & Architecture** | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) Dynamic Component Design • Responsive Layouts • ERP Integration |
-| **Backend & Databases** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| **Frontend Core** | <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></a> |
+| **UI Frameworks & Styling** | <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a> <a href="https://mui.com/material-ui/getting-started/" target="_blank"><img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" /></a> <a href="https://getbootstrap.com/docs/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a> |
+| **State & Architecture** | <a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" /></a> • Dynamic Component Design • Responsive Layouts • ERP Integration |
+| **Backend & Databases** | <a href="https://nodejs.org/docs/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /></a> <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /></a> <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /></a> |
+| **Tools & Platforms** | <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a> <a href="https://docs.github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a> |
 
 ---
 
@@ -38,24 +41,6 @@ A passionate, results-driven **Software Developer** with deep expertise in build
 - **Enterprise Scale:** Scaled multi-account vendor payment infrastructure handling cross-country transfers with high security standards.
 - **Pixel-Perfect Responsive Engineering:** Designed high-conversion UI layouts with dynamic component reusability and cross-device compatibility.
 - **Full Product Lifecycle:** Led features from wireframing, component design, and state architecture to backend API integrations and production rollout.
-
----
-
-### 🚀 Featured Projects
-
-- 💳 **Xpentra Dev** — Next-generation corporate banking and payments platform empowering enterprise customers with an all-in-one digital settlement interface.
-- 📊 **Resourcing Portal** — Centralized operations platform combining real-time client analytics, payment gateway registries, and amenity allocation.
-- 🏦 **Uhud Banking** — Dynamic digital banking interface built with React.js, Material UI, and responsive breakpoint architecture.
-- 📈 **NTTS (Task & Report Tracking)** — Internal performance and resource tracking tool designed to streamline task evaluations and reporting cycles.
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atteshamshaikh18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohd Attesham's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atteshamshaikh18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
 
 ---
 
@@ -70,7 +55,7 @@ A passionate, results-driven **Software Developer** with deep expertise in build
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:atteshamshaikh47@gmail.com">
+  <a href="mailto:atteshamshaikh47@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-atteshamshaikh47%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/muhammad-attesham-shaikh" target="_blank">
