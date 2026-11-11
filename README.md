@@ -34,19 +34,19 @@ A passionate, results-driven **Software Developer** with deep expertise in build
 
 ### 🌟 Key Highlights & Production Experience
 
-- **Fintech & Payment Automation:** Engineered authorization matrices enabling tiered corporate transaction approvals and real-time ERP settlement flows[cite: 2].
-- **Enterprise Scale:** Scaled multi-account vendor payment infrastructure handling cross-country transfers with high security standards[cite: 2, 3].
-- **Pixel-Perfect Responsive Engineering:** Designed high-conversion UI layouts with dynamic component reusability and cross-device compatibility[cite: 2].
-- **Full Product Lifecycle:** Led features from wireframing, component design, and state architecture to backend API integrations and production rollout[cite: 2].
+- **Fintech & Payment Automation:** Engineered authorization matrices enabling tiered corporate transaction approvals and real-time ERP settlement flows.
+- **Enterprise Scale:** Scaled multi-account vendor payment infrastructure handling cross-country transfers with high security standards.
+- **Pixel-Perfect Responsive Engineering:** Designed high-conversion UI layouts with dynamic component reusability and cross-device compatibility.
+- **Full Product Lifecycle:** Led features from wireframing, component design, and state architecture to backend API integrations and production rollout.
 
 ---
 
 ### 🚀 Featured Projects
 
-- 💳 **Xpentra Dev** — Next-generation corporate banking and payments platform empowering enterprise customers with an all-in-one digital settlement interface[cite: 2, 3].
-- 📊 **Resourcing Portal** — Centralized operations platform combining real-time client analytics, payment gateway registries, and amenity allocation[cite: 3].
-- 🏦 **Uhud Banking** — Dynamic digital banking interface built with React.js, Material UI, and responsive breakpoint architecture[cite: 3].
-- 📈 **NTTS (Task & Report Tracking)** — Internal performance and resource tracking tool designed to streamline task evaluations and reporting cycles[cite: 3].
+- 💳 **Xpentra Dev** — Next-generation corporate banking and payments platform empowering enterprise customers with an all-in-one digital settlement interface.
+- 📊 **Resourcing Portal** — Centralized operations platform combining real-time client analytics, payment gateway registries, and amenity allocation.
+- 🏦 **Uhud Banking** — Dynamic digital banking interface built with React.js, Material UI, and responsive breakpoint architecture.
+- 📈 **NTTS (Task & Report Tracking)** — Internal performance and resource tracking tool designed to streamline task evaluations and reporting cycles.
 
 ---
 
@@ -61,9 +61,9 @@ A passionate, results-driven **Software Developer** with deep expertise in build
 
 ### ⚡ Beyond the Code
 
-- 🏋️‍♂️ Fitness & gym enthusiast, keeping discipline high both in life and code[cite: 3].
-- ⚽ Passionate about outdoor sports, travel, and music[cite: 3].
-- 💡 Always exploring clean code architectures, UI optimization patterns, and modern web paradigms[cite: 2].
+- 🏋️‍♂️ Fitness & gym enthusiast, keeping discipline high both in life and code.
+- ⚽ Passionate about outdoor sports, travel, and music.
+- 💡 Always exploring clean code architectures, UI optimization patterns, and modern web paradigms.
 
 ---
 
