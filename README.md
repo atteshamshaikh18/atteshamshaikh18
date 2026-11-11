@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/loverajoel/jstips/master/resources/jstips-header-blog.gif" alt="JavaScript Engine Animation" width="100%" />
+<img src="./Engine.gif" alt="JavaScript Header GIF" width="100%" />
 </p>
 
 # Hi there, I'm Mohd Attesham Shaikh 👋
